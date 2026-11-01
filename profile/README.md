@@ -1,4 +1,4 @@
-# statefullm
+# LIM Coding Assistant
 
 **Building tools for local, stateful AI inference.**
 
